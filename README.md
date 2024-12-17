@@ -82,6 +82,8 @@ Combines all components and manages the state for adding and deleting notes.
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/a52a2564-006b-4822-a0b8-7e9e93c8ed2c)
 ![image](https://github.com/user-attachments/assets/2b2abc05-0727-48b7-ad39-f6926b9a1161)
+![image](https://github.com/user-attachments/assets/082518cc-9383-4648-9594-2a7b720071e6)
+
 
 ## How to Contribute
 
