@@ -80,7 +80,8 @@ Form for adding new notes with input fields for title and content.
 Combines all components and manages the state for adding and deleting notes.
 
 ## Screenshots
-Add screenshots here (if applicable).
+![image](https://github.com/user-attachments/assets/a52a2564-006b-4822-a0b8-7e9e93c8ed2c)
+
 
 ## How to Contribute
 
